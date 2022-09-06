@@ -5,7 +5,6 @@
 
 using namespace std;
 
-//Ivan methods
 void PrintCoffeeBoxLogo();
 void mainMenu();
 void printMainMenu();
@@ -21,8 +20,6 @@ void outOfCupsException();
 void execute();
 void clearScreen();
 void softlockCoffeebox();
-
-//Max methods
 void serviceMenu();
 void printServiceMenuLoginPage();
 void serviceMenuLoginError();
